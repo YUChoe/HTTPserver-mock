@@ -10,7 +10,7 @@ setup(
     author_email='yonguk.choe@gmail.com',
     description='a simple http-server mockup to test web crawler.',
     long_description=long_desc,
-    url='https://github.com/YUChoe/noizze_crawler',
+    url='https://github.com/YUChoe/HTTPserver-mock',
     long_description_content_type="text/markdown",
     py_modules=['HTTPserver_mock'],
     package_dir={'': 'src'},

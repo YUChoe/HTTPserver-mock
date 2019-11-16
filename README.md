@@ -44,3 +44,6 @@ $ python test.py
 * v2: PyPI published
 * v1: Test alpha 
 
+## License
+MIT
+
